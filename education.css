@@ -1,0 +1,40 @@
+#about{
+    color: rgb(51, 0, 255);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+    font-weight: bolder;
+   
+}
+#id{
+    color: rgb(51, 0, 255);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+    font-weight: bolder;
+}
+#our{
+    color: rgb(51, 0, 255);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+    font-weight: bolder;
+}
+#part{
+    color: rgb(51, 0, 255);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+    font-weight: bolder;
+}
+#cart{
+    align-items: center;
+    justify-content: center;
+    color: mediumvioletred;
+    background-color: black;
+}
+#jeff{
+   float: right;
+   left: 200PX;
+   font-size: larger;
+   font-weight: bolder;
+}
+#fa{
+    color:darkslategray;
+}
